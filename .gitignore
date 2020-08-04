@@ -1,0 +1,23 @@
+# Default ignored files
+*.pyc
+*.tmp
+*.docx
+*.whl
+*~
+db.sqlite3
+# idea directory
+.idea
+.idea/*.xml
+*.iml
+# blog directory
+.blog
+.blog/__pycache__
+.blog/migrations
+# mysite directory
+.mysite
+.mysite/__pycache__
+# 가상환경
+.myvenv
+.myvenv/include
+.myvenv/Lib
+
