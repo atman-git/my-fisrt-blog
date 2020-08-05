@@ -2,7 +2,7 @@
 *.pyc
 *.tmp
 *.docx
-*.whl
+#*.whl
 *~
 db.sqlite3
 # idea directory
